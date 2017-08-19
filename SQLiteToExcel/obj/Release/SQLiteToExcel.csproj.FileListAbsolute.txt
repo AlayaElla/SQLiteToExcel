@@ -1,0 +1,7 @@
+D:\WordSpace\SqliteToExcel\SQLiteToExcel\SQLiteToExcel\bin\Release\SQLiteToExcel.exe.config
+D:\WordSpace\SqliteToExcel\SQLiteToExcel\SQLiteToExcel\bin\Release\SQLiteToExcel.exe
+D:\WordSpace\SqliteToExcel\SQLiteToExcel\SQLiteToExcel\bin\Release\SQLiteToExcel.pdb
+D:\WordSpace\SqliteToExcel\SQLiteToExcel\SQLiteToExcel\bin\Release\System.Data.SQLite.dll
+D:\WordSpace\SqliteToExcel\SQLiteToExcel\SQLiteToExcel\obj\Release\SQLiteToExcel.exe
+D:\WordSpace\SqliteToExcel\SQLiteToExcel\SQLiteToExcel\obj\Release\SQLiteToExcel.pdb
+D:\WordSpace\SqliteToExcel\SQLiteToExcel\SQLiteToExcel\obj\Release\SQLiteToExcel.csprojResolveAssemblyReference.cache
